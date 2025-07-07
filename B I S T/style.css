@@ -1,0 +1,225 @@
+body{
+	background-color:#b5140e;
+	padding:0px;
+	margin:0px;
+}
+#logobox{
+	height:100px;
+	width:90px;
+	margin-left:268px;
+	float:left;
+}
+#headingbox{
+	height:100px;
+	width:650px;
+	float:left;
+	color:white;
+	font-size:25px;
+	margin-left:10px;
+}
+big{
+	color:orange;
+	font-size:28px;
+}
+i{
+	font-size:20px;
+}
+#applybutton{
+	height:45px;
+	width:100px;
+	background-color:orange;
+	color:red;
+	margin-left:150px;
+	margin-top:45px;
+	float:left;
+}
+#frontbox{
+	height:60px;
+	width:1000px;
+	background-color:#b5140e;
+	border-radius:25px 25px 25px 25px;
+}
+#button1{
+	height:50px;
+	width:100px;
+	font-size:20px;
+	margin-left:15px;
+	margin-top:4px;
+	color:white;
+	text-decoration:none;
+	float:left;
+	border-color:#b5140e;
+	background-color:#b5140e;
+}
+#button2{
+	height:50px;
+	width:130px;
+	font-size:15px;
+	margin-left:13px;
+	margin-top:4px;
+	text-decoration:none;
+	float:left;
+	color:white;
+	border-color:#b5140e;
+	background-color:#b5140e;
+}
+#frontpic{
+	height:450px;
+	width:1000px;
+	
+}
+#scrol{
+	margin-top:10px;
+	color:red;
+}
+#box2{
+	height:780px;
+	width:1000px;
+	background-color:white;
+}
+#insidebox1{
+	height:250px;
+	width:979px;
+	margin-left:8px;
+	margin-right:9px;
+	border-style:solid;
+	border-color:black;
+}
+#scrol2{
+	color:red;
+	margin-top:17px;
+}
+#scrol3{
+	color:black;
+	margin-top:17px;
+}
+#1stline{
+	width:978px;
+	margin:0px;
+	padding:0px;
+}
+#frontpage{
+	height:30px;
+	width:220px;
+	border-style:solid;
+	border-color:black;
+	border-width:2px;
+	float:left;
+	margin-left:100px;
+	padding-top:10px;
+}
+#frontpage2{
+	height:30px;
+	width:220px;
+	border-style:solid;
+	border-color:black;
+	border-width:2px;
+	float:right;
+	margin-right:100px;
+	padding-top:10px;
+}
+#insideboxleft{
+	height:463px;
+	width:560px;
+	float:left;
+	margin-top:15px;
+	margin-left:8px;
+}
+#insideboxright{
+	height:463px;
+	width:420px;
+	float:right;
+	margin-top:15px;
+	margin-right:8px;
+}
+#heading1{
+	color:#b5140e;
+	float:left;
+}
+#picbox{
+	height:100px;
+	width:560px;
+	background-color:white;
+}
+#smallpic{
+	height:100px;
+	width:180px;
+	float:left;
+	border-style:solid;
+	border-color:black;
+	border-width:3px;
+	padding:0px;
+	margin:0px;
+}
+#noticetext{
+	color:#b5140e;
+}
+#noticebox1{
+	height:390px;
+	width:415px;
+	background-color:lightblue;
+	border-style:solid;
+	border-color:black;
+	border-width:3px;
+}
+#noticebox2{
+	height:360px;
+	width:415px;
+	
+}
+#line1{
+	width:415px;
+	height:3px;
+	color:black;
+}
+#box3{
+	height:400px;
+	width:1000px;
+	background-image:url('bistpic.jfif');
+	background-size:100% 100%;
+	background-attchment:fixed;	
+}
+}
+#quickheading{
+	margin-left:8px;
+	margin-top:0px;
+	color:#b5140e;
+	float:left;
+}
+#bigtextbox{
+	height:347px;
+	width:450px;
+	float:left;
+}
+#textbox{
+	height:50px;
+	width:350px;
+	float:left;
+	margin-left:8px;
+	border-style:solid;
+	border-color:black;
+	border-width:3px;
+	
+}
+#name{
+	float:left;
+	margin-left:8px;
+}
+#righttextbox{
+	height:150px;
+	width:500px;
+	color:black;
+	margin-right:8px;
+	float:right;
+	border-style:solid;
+	border-color:black;
+	border-width:3px;
+}
+#submit{
+	height:50px;
+	width:200px;
+	background-color:red;
+	color:white;
+	float:right;
+	margin-right:8px;
+}
