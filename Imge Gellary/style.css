@@ -1,0 +1,55 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #655757;
+  font-family: Arial, sans-serif;
+}
+
+/* Container for the gallery */
+.gallery-container {
+  width: 80%;
+  max-width: 600px;
+  height: 400px;
+  border: 2px solid #ccc;
+  background: rgb(210, 96, 96);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+/* Box inside the container */
+.gallery-box {
+  display: flex;
+ /* flex-wrap: wrap;*/
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+/* Styling for images */
+.gallery-box img {
+  width: 100px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect */
+.gallery-box img:hover {
+  transform: scale(2);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
