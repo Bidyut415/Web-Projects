@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main{
+    height:100vh;
+    width:100%;
+    background-color: aqua;
+    display: flex;
+}
+.leftside{
+    flex-basis: 50%;
+    background-color: blue; 
+    height:100%;
+    display: flex;
+    flex-direction: column;
+   
+}
+.rightside{
+    flex-basis: 50%;
+    background-color:rgb(71, 214, 224);
+    height:100%;
+}
+#html{
+    flex-basis: 33%;
+    background-color: aliceblue;
+}
+#css{
+    flex-basis: 33%;
+    background-color: aliceblue;
+}
+#javascript{
+    flex-basis: 34%;
+    background-color: aliceblue;
+}
+textarea{
+    height: 90%;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: black;
+    color: white;
+}
+label{
+    display: block;
+    background-color: red;
+    color: white;
+    padding: 4px;
+}
