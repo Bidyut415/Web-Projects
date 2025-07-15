@@ -1,0 +1,197 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+#line{
+	background-color:blue;
+	height:5px;
+	margin-top:10px;
+}
+#billubox1{
+	height:80px;
+	width:100%;
+}
+#namebox1{
+	height:80px;
+	width:500px;
+	float:left;
+	font-size:30px;
+	padding-left:10px;
+}
+#firstcircel1{
+	  height: 15px;
+  	  width: 15px;
+  	  background-color:black;
+ 	  border-radius: 50%;
+  	  display:inline-block;
+	  margin-left:20px;
+}
+#firstcircel2{
+	  height: 15px;
+  	  width: 15px;
+  	  background-color:red;
+ 	  border-radius: 50%;
+  	  display: inline-block;
+	  margin-left:60px;
+}
+#firstcircel3{
+	  height: 15px;
+  	  width: 15px;
+  	  background-color:blue;
+ 	  border-radius: 50%;
+  	  display: inline-block;
+	  margin-left:60px;
+}
+#firstcircel4{
+	  height: 37px;
+  	  width: 37px;
+  	  background-color:white;
+ 	  border-radius: 50%;
+  	  display:inline-block;
+	  margin-left:20px;
+}
+#namebox2{
+	height:80px;
+	width:350px;
+	font-size:21px;
+	float:right;
+	
+}
+#nabox{
+	height:100px;
+	width:100%;
+	background-color:black;
+	margin-top:0px;
+}
+#button1{
+	height:50px;
+	width:140px;
+	margin-top:25px;
+	margin-left:10px;
+	border-style:solid;
+	border-color:red;
+	border-width:2px;
+	float:left;
+	border-radius:30px;
+	font-size:25px;
+	
+}
+#button1:hover{
+	background-color:red;
+}
+#scrollbox{
+	height:80px;
+	width:510px;
+	background-color:white;
+	float:left;
+	margin-top:10px;
+	margin-left:25px;
+}
+#move{
+	font-size:35px;
+	color:black;
+	padding-top:20px;
+	
+}
+#button2{
+	height:50px;
+	width:160px;
+	margin-right:10px;
+	margin-top:25px;
+	border-style:solid;
+	border-color:red;
+	border-width:2px;
+	border-radius:30px;
+	font-size:25px;
+	float:right;
+	
+}
+#button2:hover{
+	background-color:orange;
+}
+#textbox1{
+	height:700px;
+	width:490px;
+	margin-left:10px;
+	margin-top:10px;
+	background-color:red;
+	float:left;
+}
+#inside_text_box_1{
+	height:610px;
+	width:470px;
+	background-color:white;
+	margin-left:10px;
+}
+#simple_text::selector{
+	background-color:red; 
+}
+#textbox2{
+	height:700px;
+	width:490px;
+	margin-left:10px;
+	margin-top:10px;
+	float:left;
+}
+#text_1{
+	font-size:35px;
+}
+#c_button{
+	height:50px;
+	width:150px;
+	margin-top:100px;
+	margin-left:60px;
+	float:left;
+	border-radius:30px;
+	font-size:20px;
+	box-shadow:5px 5px red;
+}
+#simple_text{
+	text-align:justify;
+	text-justtify:inter-word;
+}
+#c_button:hover{
+	background-color:red;
+	box-shadow:5px 5px blue;
+}
+#textbox3{
+	height:700px;
+	width:490px;
+	margin-right:10px;
+	margin-top:10px;
+	background-color:green;
+	float:right;
+}
+#inside_text_box_3{
+	height:610px;
+	width:470px;
+	background-color:white;
+	margin-left:10px;
+}
+#footer{
+	height:300px;
+	width:100%;
+	background-color:black;
+}
+#footer1{
+	height:300px;
+	width:330px;
+	float:left;
+	color:white;
+	font-size:20px;
+	padding-left:20px
+}
+#footer2{
+	height:300px;
+	width:610px;
+	float:left;
+	color:white;
+	padding-left:50px;
+}
+#footer3{
+	height:300px;
+	width:400px;
+	float:right;
+	color:white;
+	padding-right:20px;
+}
