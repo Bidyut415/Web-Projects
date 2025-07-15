@@ -1,0 +1,205 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+hr{
+	width:3px;
+	color:red;
+}
+#topbox{
+	height:50px;
+	width:100%;
+}
+#headbox{
+	height:50px;
+	width:550px;
+	font-size:40px;
+	color:orange;
+	float:left;
+}
+#product{
+	color:red;
+	font-size:40px;
+}
+#com{
+	color:blue;
+	font-size:40px;
+}
+#headbox2{
+	float:right;
+	font-size:20px;
+	padding:0px;
+	margin:0px;
+	margin-top:25px;
+}
+#nabbox{
+	height:100px;
+	width:100%;
+	background-color:#302726;
+}
+#searchbox{
+	height:48px;
+	width:300px;
+	float:left;
+	margin-top:26px;
+	margin-left:15px;
+	background-color:white;
+}
+#textbox{
+	height:50px;
+	width:300px;
+}
+#searchbutton{
+	height:50px;
+	width:100px;
+	float:left;
+	margin-top:25px;
+	margin-left:5px;
+	background-color:white;
+	text-align:center;
+}
+#searchbutton:hover{
+	background-color:orange;
+}
+#scrollbox{
+	height:80px;
+	width:450px;
+	background-color:white;	
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+}
+#movingimg{
+	height:80px;
+	width:100px;
+}
+#homebutton{
+	height:50px;
+	width:145px;
+	float:left;
+	margin-top:25px;
+	margin-left:10px;
+	background-color:white;
+	text-align:center;
+	border-radius:25px 25px 25px 25px;
+}
+#homebutton:hover{
+	background-color:red
+}
+#bodyimg{
+	height:550px;
+	width:100%;
+	margin-top:10px;
+}
+#facebox1{
+	height:650px;
+	width:759px;
+	background-color:#6abd6a;
+	float:left;
+	
+}
+#facebox2{
+	height:540px;
+	width:727px;
+	background-color:white;
+	margin-left:15px;
+}
+#bodyoilbox1{
+	height:650px;
+	width:759px;
+	background-color:#b240b8;
+	float:left;
+}
+#bodyoilbox2{
+	height:540px;
+	width:727px;
+	background-color:white;
+	margin-left:15px;
+}
+#text{
+	color:white;
+}
+#picbox{
+	height:250px;
+	width:210px;
+	border-style:solid;
+	border-color:black;
+	border-width:3px;
+	float:left;
+	margin-left:20px;
+	margin-top:8px;
+}
+#pic{
+	height:200px;
+	width:210px;
+	padding:0px;
+	margin:0px;
+}
+#ordernow{
+	height:30px;
+	width:150px;
+	border-radius:15px 15px 15px 15px;
+	background-color:red;
+	margin-left:20px;
+	margin-top:8px;
+}
+#ordernow:hover{
+	background-color:green;
+}
+#bgimg{
+	width:100%;
+	height:550px;
+	background-image:url(' background.gif');
+	background-size:100% 100%;
+	background-attchment:fixed;
+}
+#picbox2{
+	height:250px;
+	width:223px;
+	border-style:solid;
+	border-color:orange;
+	border-width:3px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+#bgpic{
+	
+	height:200px;
+	width:223px;
+	padding:0px;
+	margin:0px;
+}
+#footer{
+	height:200px;
+	width:100%;
+	background-color:black;
+}
+#contact{
+	height:200px;
+	width:500px;
+	float:left;	
+}
+#contacthead{
+	color:white;
+	font-size:20px;
+	text-align:center;
+}
+#contact1{
+	margin-left:10px;
+	color:white;
+}
+#desagin{
+	height:200px;
+	width:500px;
+	float:left;
+}
+#desaginer{
+	text-align:center;
+	margin-top:150px;
+	color:white;
+}
+#about{
+	height:200px;
+	float:right;
+}
