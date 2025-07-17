@@ -1,0 +1,46 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background-image: url(background.avif);
+    background-size: cover;
+}
+.overlay{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0,0.5);
+    display: flex;
+    flex-direction: column;
+}
+.text{
+   color: white;
+   font-size: 25px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-top: 10px; 
+   text-align: center;
+}
+#inputbox{
+    width:700px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+}
+input{
+    height: 40px;
+    width: 50%;
+    margin-top: 10px;
+    border-radius: 10px;
+    border-color: transparent;
+    text-align: center;
+    font-size: large;
+}
+#inputbox div{
+    color:white;
+    font-size: large;
+    width: 250px;
+}
