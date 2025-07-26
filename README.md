@@ -12,3 +12,5 @@ in this projects we can see movie rating and descriptions about the movie
 it's simple calculator 
 # Joke 
 here we can see random joke 
+# Image Gellary
+it's a simple img Gellary here we can see img
