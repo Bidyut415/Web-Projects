@@ -20,3 +20,5 @@ in this mini project we can see weather report of various state
 using this project we can generate qr code of any url 
 # To Do App
 it's normal CRUD App here we can add text remove text and also edit the text 
+# Countdown timer 
+it's basicsly a clock project 
