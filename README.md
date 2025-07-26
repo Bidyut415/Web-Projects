@@ -16,3 +16,5 @@ here we can see random joke
 it's a simple img Gellary here we can see img
 # Weather App
 in this mini project we can see weather report of various state 
+# QR Code Generator 
+using this project we can generate qr code of any url 
