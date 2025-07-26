@@ -14,3 +14,5 @@ it's simple calculator
 here we can see random joke 
 # Image Gellary
 it's a simple img Gellary here we can see img
+# Weather App
+in this mini project we can see weather report of various state 
