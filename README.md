@@ -18,3 +18,5 @@ it's a simple img Gellary here we can see img
 in this mini project we can see weather report of various state 
 # QR Code Generator 
 using this project we can generate qr code of any url 
+# To Do App
+it's normal CRUD App here we can add text remove text and also edit the text 
