@@ -22,3 +22,5 @@ using this project we can generate qr code of any url
 it's normal CRUD App here we can add text remove text and also edit the text 
 # Countdown timer 
 it's basicsly a clock project 
+# BIST
+it is clone of my college website
