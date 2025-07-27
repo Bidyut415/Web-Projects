@@ -24,3 +24,6 @@ it's normal CRUD App here we can add text remove text and also edit the text
 it's basicsly a clock project 
 # BIST
 it is clone of my college website
+# Beauty Product 
+it is a simple E -commerce website
+
