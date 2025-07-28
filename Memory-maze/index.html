@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🧠 Memory Maze</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🧠 Memory Maze</h1>
+
+    <div id="theme-toggle">
+      <label>🌗 Theme:
+        <input type="checkbox" id="toggle-theme">
+      </label>
+    </div>
+
+    <div id="game-info">
+      <p>Level: <span id="level">1</span></p>
+      <p>Score: <span id="score">0</span></p>
+      <p>🏅 High Score: <span id="highscore">0</span></p>
+    </div>
+
+    <div id="game-board"></div>
+
+    <div id="message"></div>
+    <button id="start-btn">Start Game</button>
+
+    <div id="leaderboard">
+      <h3>🏆 Leaderboard</h3>
+      <ol id="leaderboard-list"></ol>
+    </div>
+  </div>
+
+  <audio id="correct-sound" src="assets/sounds/correct.mp3"></audio>
+  <audio id="wrong-sound" src="assets/sounds/wrong.mp3"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
